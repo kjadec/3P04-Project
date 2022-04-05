@@ -142,6 +142,7 @@ body {
   color: orange;
   justify-content: center;
   align-items: center;
+  text-align: center;
 }
 
 .content__description-white {
