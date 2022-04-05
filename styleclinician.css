@@ -131,6 +131,15 @@ body {
   margin: 25px;
 }
 
+.main__cardsmall {
+  /* border: 1px solid black; */
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  background-color: #DBFEB8;
+  margin: 25px;
+}
+
 .title {
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 900;
