@@ -126,7 +126,7 @@ body {
   /* border: 1px solid black; */
   display: flex;
   flex-direction: column;
-  width: 600px;
+  width: 550px;
   background-color: #DBFEB8;
   margin: 25px;
 }
@@ -135,7 +135,7 @@ body {
   /* border: 1px solid black; */
   display: flex;
   flex-direction: column;
-  width: 400px;
+  width: 350px;
   background-color: #DBFEB8;
   margin: 25px;
 }
